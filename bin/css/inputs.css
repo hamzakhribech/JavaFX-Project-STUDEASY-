@@ -1,0 +1,95 @@
+/* Styling for text fields */
+.text-field ,.text-area {
+    -fx-background-color: rgb(255, 255, 255);
+    -fx-border-color: #9e9d9d;
+     -fx-border-width: 1px;
+    -fx-border-radius:2;
+    -fx-text-fill: rgb(0, 0, 0);
+    -fx-padding: 5px;
+}
+
+/* Styling for password fields */
+
+.combo-box {
+    -fx-background-color: #dbdbdb;
+    -fx-border-color:  #023047;
+    -fx-border-radius:2;
+    -fx-text-fill: rgb(0, 0, 0);
+    -fx-padding: 5px;
+}
+
+
+/* Styling for choice boxes */
+.choice-box {
+    -fx-background-color:  rgb(255, 255, 255);
+       -fx-border-color: #9e9d9d;
+  -fx-border-radius:5;
+    -fx-text-fill: rgb(0, 0, 0);
+    -fx-padding: 2px;
+}
+
+/* Styling for date pickers */
+
+
+/* Styling for sliders */
+.slider {
+    -fx-background-color: lightblue;
+    -fx-padding: 5px;
+}
+
+/* Styling for spinners */
+.spinner {
+    -fx-background-color: lightblue;
+    -fx-border-color: gray;
+    -fx-text-fill: white;
+    -fx-padding: 5px;
+}
+/* --------datepicker------- */
+/* Styling for the DatePicker control */
+.date-picker {
+    -fx-background-color: lightblue;
+    
+    -fx-text-fill: rgb(28, 28, 28);
+    -fx-padding: 5px;
+}
+
+/* Styling for color pickers */
+/* .color-picker {
+    -fx-background-color: #0b0d29;
+    -fx-border-color: rgb(0, 251, 17);
+    -fx-border-radius:5;
+    -fx-text-fill: rgb(0, 140, 255);
+    -fx-padding: 5px;
+} */
+
+/* Styling for the DatePicker's text field */
+.date-picker .text-field {
+    -fx-border-color: #9e9d9d00;
+    -fx-border-radius:  5 0 0 5; 
+    -fx-border-width: 1px;
+}
+
+/* Styling for the DatePicker's popup calendar */
+.date-picker .popup .calendar {
+    -fx-background-color:  rgb(255, 255, 255);
+}
+
+/* Styling for the DatePicker's calendar cells */
+.date-picker .popup .calendar-date-cell {
+    /* Your styling properties here */
+}
+
+/* Styling for the DatePicker's today's cell */
+.date-picker .popup .calendar-date-cell.today {
+    /* Your styling properties here */
+}
+
+/* Styling for the DatePicker's selected date cell */
+.date-picker .popup .calendar-date-cell.selected {
+    /* Your styling properties here */
+}
+
+/* Styling for the DatePicker's highlighted date cells */
+.date-picker .popup .calendar-date-cell.highlighted {
+    /* Your styling properties here */
+}

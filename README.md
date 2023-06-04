@@ -1,6 +1,6 @@
 Student Registration System (STUDEASY)
 
-Welcome to the STUDEASY repository! Our project aims to provide a convenient and user-friendly solution for student registration in educational institutions. The system allows administrators to easily register, update, delete, and generate PDF reports for student information. Additionally, students can log in using their email and CNE  number as their password, making the student registration process easy and efficient.
+Welcome to the STUDEASY repository! Our project aims to provide a convenient and user-friendly solution for student registration in educational institutions. The system allows administrators to easily register, update, delete, and generate PDF reports for student information. Additionally, students can log in using their email and CNE number as their password, making the student registration process easy and efficient.
 Team Members
 
     Hamza KHRIBECH
